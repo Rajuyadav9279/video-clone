@@ -1,0 +1,3 @@
+# video clone 
+
+-[model link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXdMRllOVGtSYURJVGx1eXRmRXBjTzBYWnBHZ3xBQ3Jtc0ttMTQ4Y3VPRTFIb0M5blZMMXJIX0hTZy02VnBFLTJkUlVfVDNycjhhM2FpQmc1UmhJcU1hYVFSUW45MmdDLVVycElZLUJleldRT2w1VkhMXzlaeDlPWDhmdHhTNU1MeUluU3BsVXJMdWM3Z2k4UlBzUQ&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc)
